@@ -26,8 +26,7 @@ Files for the courses in the Machine Learning Specialization certificate at the 
 #### Course 2
 * https://s3.amazonaws.com/static.dato.com/files/coursera/course-2/kc_house_data.gl.zip
 
-### References
-https://github.com/learnml/machine-learning-specialization  
+### References 
 More information on the Amazon data set may be found [here](http://jmcauley.ucsd.edu/data/amazon/) as well as in the following paper.
 
 ```
